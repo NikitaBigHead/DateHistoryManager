@@ -1,0 +1,22 @@
+.tab{
+    border: 3px solid black;
+}
+.cell {
+    display: flex;
+    font-size: 18px;
+}
+.tab .date {
+    font-size: 20px;
+    font-weight:bold;
+}
+
+.tab button{
+    margin: 5px;
+}
+.input-data input{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.input-data button{
+    font-size: 20px;
+}

@@ -1,0 +1,33 @@
+.text { 
+    border: 3px solid black;
+    padding: 10px;
+}
+.inputArea .date{
+    font-size: 20px;
+}
+.inputArea .event{
+    font-size: 20px;
+}
+.but{
+    font-size: 20px;
+}
+
+
+.countDiv{
+    display: flex;
+}
+.count{
+    padding:0 0 0 20px;
+}
+
+.settings .countQuestions{
+    font-size: 20px;
+}
+
+.all.red{
+    background-color: rgba(255, 0, 0, 0.7);
+    
+}
+.all.green{
+    background-color: rgba(0, 128, 0, 0.7);
+}

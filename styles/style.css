@@ -1,0 +1,16 @@
+.menu{ 
+    display: flex;
+    flex-direction: column;
+    background: red;
+    align-items: center;
+    justify-content: center;
+    
+
+
+}
+.but{
+    color: black;
+    margin: 10px 0;
+    height: 30px;
+    width: 200px;
+}
